@@ -1,0 +1,2 @@
+CLI Setup Instructions Link
+Follow these instructions to set up Firebase tools and the CLI on your machine: https://firebase.google.com/docs/cli

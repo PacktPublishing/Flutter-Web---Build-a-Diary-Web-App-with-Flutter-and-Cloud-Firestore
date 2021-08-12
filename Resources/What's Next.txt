@@ -1,0 +1,22 @@
+What's Next
+Well, you made it to the end of this course!
+
+Congratulations!  I hope you enjoyed learning about building Flutter web full-fledged web app from scratch.
+
+So, what's next?  Well, now that you have the skills under your belt, I would encourage you to build more web apps using Flutter. Yes, that's right - keep practicing your skills!
+
+Here are a few places you could go to learn more and get a bit more inspired:
+
+1. https://flutter.dev - your flutter dev documentation where you should always check out!
+
+2. https://flutter.gskinner.com/folio/ - this is an entire Flutter web app built using the same tools you've used in this course!
+
+
+
+If you build something, please don't forget to share it with us too! You can create a thread in this course and show off your project - you've earned the right.
+
+
+
+Thank you, and I hope you keep coding, always.
+
+Paulo

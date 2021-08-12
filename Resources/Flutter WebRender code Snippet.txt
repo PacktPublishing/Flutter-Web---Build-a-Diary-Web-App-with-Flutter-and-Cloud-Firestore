@@ -1,0 +1,8 @@
+<script type="text/javascript">
+let useHtml = true;
+if(useHtml) {
+window.flutterWebRenderer = "html";
+} else {
+window.flutterWebRenderer = "canvaskit";
+}
+</script>
